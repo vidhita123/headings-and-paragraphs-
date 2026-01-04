@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my school </title>
+</head>
+<body>
+    <h1> john dewey school </h1>
+    <small>my school is in <i>basbari, kapan marg, maharajgung, kathmandu</i></small><br> 
+    <em>there are around <sup> 300+ students </sup>  in my school </em><br>
+    <strong> in my school they have <mark> SEE borads </mark></strong><br>
+</body>
+</html>
