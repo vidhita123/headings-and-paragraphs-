@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formating in html</title>
+</head>
+<body>
+    <strong> welcome to codingal</strong><br>
+    <i> welcome to codingal </i><br>
+    <small> welcome to codingal</small><br>
+    <b> welcome to codingal </b><br>
+    <mark> welcome to codingal </mark><br>
+    <del> welcome to codingal </del><br>
+    <em> welcome to codingal </em><br>
+    <sup> welcome to codingal </sup><br>
+</body>
+</html>
